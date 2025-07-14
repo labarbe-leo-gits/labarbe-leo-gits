@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on PétiSign<br>🌱 Currently learning Ruby & Apex<br>📤️ Contact me here : labarbe.leo2308@gmail.com
+🔭 Working on my own Operating System<br>🌱 Currently learning Ruby & Apex<br>📤️ Contact me here : labarbe.leo2308@gmail.com
 
 
 ## 🌐 Socials:
