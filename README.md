@@ -1,5 +1,4 @@
-# 💫 About Me:
-#👋 Hey, I'm Léo.<br>
+# 👋 Hey, I'm Léo.<br>
 > Aspiring Gameplay Programmer | Full-Stack Developer | Code Enthusiast<br>
 
 I'm passionate about programming in all its forms—from crafting small games in C to building fully functional websites. Currently sharpening my skills through an internship, I'm on a path to becoming a gameplay programmer. My work spans low-level game mechanics to full-stack web development, driven by curiosity and a love for bringing ideas to life through code.
