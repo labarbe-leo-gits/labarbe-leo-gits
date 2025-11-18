@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Léo.<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fire+code&pause=1000&color=F78729&background=FFFFFF00&random=true&width=435&lines=Aspiring+Gameplay+Programmer;Full-Stack+Developer;Code+Enthusiast)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fire+code&pause=1000&color=F78729&background=FFFFFF00&random=true&width=435&lines=I'm+an+Aspiring+Gameplay+Programmer;I'm+a+Full-Stack+Developer;I'm+a+Code+Enthusiast)](https://git.io/typing-svg)
 
 I'm passionate about programming in all its forms—from crafting small games in C to building fully functional websites. Currently sharpening my skills through an internship, I'm on a path to becoming a gameplay programmer. My work spans low-level game mechanics to full-stack web development, driven by curiosity and a love for bringing ideas to life through code.
 
